@@ -6,3 +6,5 @@ ini test dari branch
 perubahan dari fork yang lain   
 
 perubahan kedua dari Rialga
+
+ubah inj
